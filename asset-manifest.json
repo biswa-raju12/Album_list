@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Album-List-React/static/css/main.9a347675.css",
-    "main.js": "/Album-List-React/static/js/main.6f9c38e7.js",
-    "index.html": "/Album-List-React/index.html",
-    "main.9a347675.css.map": "/Album-List-React/static/css/main.9a347675.css.map",
-    "main.6f9c38e7.js.map": "/Album-List-React/static/js/main.6f9c38e7.js.map"
+    "main.css": "/Album_list/static/css/main.9a347675.css",
+    "main.js": "/Album_list/static/js/main.6f9c38e7.js",
+    "index.html": "/Album_list/index.html",
+    "main.9a347675.css.map": "/Album_list/static/css/main.9a347675.css.map",
+    "main.6f9c38e7.js.map": "/Album_list/static/js/main.6f9c38e7.js.map"
   },
   "entrypoints": [
     "static/css/main.9a347675.css",
